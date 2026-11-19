@@ -48,6 +48,9 @@ sudo systemctl apache2 start
 
 Check the status of apache2
 ## OUTPUT:
+<img width="693" height="412" alt="Screenshot 2026-11-19 201950" src="https://github.com/user-attachments/assets/02b7bf77-65da-4a7a-b215-f8782ea08ced" />
+
+
 
 
 
@@ -55,7 +58,8 @@ Check the status of apache2
 
 Invoke msfconsole:
 ## OUTPUT:
-<img width="1254" height="1254" alt="f313eca0-c1e2-4b14-8307-01b3cf85bd6d" src="https://github.com/user-attachments/assets/6ae69f91-5977-4479-af67-8037b458f076" />
+
+<img width="775" height="497" alt="Screenshot 2026-11-19 202142" src="https://github.com/user-attachments/assets/46b62251-f2fa-4d74-a604-4c52a59a3a10" />
 
 
 
@@ -70,6 +74,7 @@ Type help or a question mark "?" to see the list of all available commands you c
 ## OUTPUT:
 
 
+<img width="952" height="878" alt="Screenshot 2026-11-19 201932" src="https://github.com/user-attachments/assets/c3663251-4f8c-4bd9-8ebd-e5f8761d6d6b" />
 
 
 Starting a command and control Server
