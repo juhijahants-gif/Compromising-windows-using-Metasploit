@@ -137,12 +137,14 @@ Post Exploitation
 The target is now owned. Following are meterpreter commands for key capturing in the target machine
 keyscan_start	Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
 ## OUTPUT:
+<img width="427" height="45" alt="image" src="https://github.com/user-attachments/assets/396f0a2c-4d4d-429b-8a43-56d50b867e3d" />
 
 
 
 
 keyscan_dump	Shows the keystrokes captured so far
 ## OUTPUT:
+<img width="533" height="123" alt="image" src="https://github.com/user-attachments/assets/e26cc0e3-0aa6-4574-b08d-dfc5031fffa6" />
 
 
 ## RESULT:
