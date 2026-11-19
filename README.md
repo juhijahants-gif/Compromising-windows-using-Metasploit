@@ -55,6 +55,8 @@ Check the status of apache2
 
 Invoke msfconsole:
 ## OUTPUT:
+<img width="1254" height="1254" alt="f313eca0-c1e2-4b14-8307-01b3cf85bd6d" src="https://github.com/user-attachments/assets/6ae69f91-5977-4479-af67-8037b458f076" />
+
 
 
 
